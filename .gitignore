@@ -41,3 +41,4 @@ Chutzpah.sln.DotSettings.user
 *.orig
 /src/.vs/SnippetDesigner/v15/Server/sqlite3
 /.vs
+/src/.vs/
